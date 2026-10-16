@@ -1,0 +1,2 @@
+v = "dfgf"
+print("fgfg")
